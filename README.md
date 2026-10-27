@@ -145,7 +145,7 @@ flowchart LR
 ### 🎯 Target Variable Distribution
 
 <div align="center">
-  <img src="visualizations/01_target_distribution.png" alt="Target Distribution" width="80%"/>
+  <img src="01_target_distribution.png" alt="Target Distribution" width="80%"/>
   <p><i>Only 11.16% of patients were readmitted within 30 days, so this is an imbalanced classification problem.</i></p>
 </div>
 
